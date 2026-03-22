@@ -1,7 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Collin! 👋
 
-🎓 M.S. Computer Science @ UC Irvine (Expected Dec 2026)
-💼 Software Engineer Intern @ Intracranial Exothermia | Ex-LLNL Data Science Intern
+🎓 Master of Computer Science @ UC Irvine (Expected Dec 2026)
 📍 Irvine, CA
 
 ---
@@ -10,9 +9,6 @@
 
 I'm a graduate student and software engineer with a passion for machine learning, computer vision, and building full-stack applications. My work spans medical AI systems, deep learning research at a national laboratory, and LLM fine-tuning for automated grading.
 
-- 🔭 Currently building an AI-guided computer vision system for medical ultrasound imaging
-- 🧠 Interested in computer vision, NLP, and applied deep learning
-- 🌱 Always learning — currently deepening my knowledge in transformers and LLMs
 - 📫 Reach me at: [your-email@example.com] | [LinkedIn URL]
 
 ---
@@ -41,15 +37,6 @@ I'm a graduate student and software engineer with a passion for machine learning
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧪 Toxic Comment Severity Scoring
-Fine-tuned BERT on 100k comments to predict toxicity on a continuous 0–1 scale using a custom regression head in PyTorch.
-`PyTorch` `BERT` `NLP` `Regression`
-
-### 📚 Quizzy
-Full-stack web app that auto-generates flashcards from uploaded study materials using Google Gemini.
-`React` `Express.js` `Gemini API` `PDF Parsing`
 
 ---
 
@@ -64,11 +51,3 @@ Full-stack web app that auto-generates flashcards from uploaded study materials 
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
-
----
-
-*Open to full-time opportunities in Software Engineering, Machine Learning, and Data Science.*
