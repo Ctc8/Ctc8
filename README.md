@@ -1,8 +1,7 @@
 # Hi, I'm Collin! 👋
 
-💻 Applied AI Intern @ Ingram Micro
-
-🎓 Master of Computer Science @ UC Irvine 
+- 💻 Applied AI Intern @ Ingram Micro
+- 🎓 Master of Computer Science @ UC Irvine 
 
 ---
 
